@@ -1,0 +1,6 @@
+{
+"HTTP_CHAT_URL" : "https://studio.rutube.ru/api/chat/{YOUR-CHAT-ID}/",
+"HTTP_TIMEOUT" : 20,
+"CHAT_REQUEST_DURATION" : 10,
+"CHAT_LENGTH_WRAP_MESSAGE" : 15
+}
